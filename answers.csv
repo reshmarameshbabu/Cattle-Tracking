@@ -1,0 +1,14 @@
+image_name,label,probability
+back_single.jpg,stray_cattle,0.9947496056556702
+bike.jpg,no_stray_cattle,0.8882341980934143
+many.jpg,stray_cattle,0.9984951019287109
+many_back.jpg,stray_cattle,0.9985778331756592
+many_test.jpg,stray_cattle,0.9993867874145508
+single_cow.jpg,stray_cattle,0.9993403553962708
+single_cow2.jpg,stray_cattle,0.9526930451393127
+srinaths_cow.jpg,stray_cattle,0.998977780342102
+srinaths_cow2.png,stray_cattle,0.9577007293701172
+street_test.jpg,no_stray_cattle,0.960727334022522
+super_blurry.jpg,stray_cattle,0.987261950969696
+test.jpg,stray_cattle,0.9843974709510803
+test1.jpg,stray_cattle,0.9404085874557495
